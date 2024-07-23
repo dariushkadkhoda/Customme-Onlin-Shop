@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Ultiticalss */
+.main{
+    display: grid;
+    grid-template-columns: [container-start] repeat(12,minmax(min-content,5rem)) [container-end];
+    grid-template-rows: repeat(13,min-content);
+    justify-content: center;
+}
+.overall-layout{
+    grid-column: conrainer-start / container-end;
+}
