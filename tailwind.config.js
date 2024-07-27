@@ -31,7 +31,7 @@ module.exports = {
           500: "#AFAFAF",
           600: "#898989",
           700: "#656565",
-          800: "#641C23",
+          800: "#434343",
           900: "#242424",
         },
         'Primary': '#A72F3B',
@@ -140,7 +140,7 @@ module.exports = {
         }],
       },
       fontFamily: {
-        'IRANSansX': ["IRANSansX"]
+        'IRANYekanX': ["IRANYekanX"]
       },
     },
   },
