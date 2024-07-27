@@ -139,6 +139,9 @@ module.exports = {
           fontWeight: '300',
         }],
       },
+      fontFamily: {
+        'IRANSansX': ["IRANSansX"]
+      },
     },
   },
   plugins: [],
